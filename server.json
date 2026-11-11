@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.palimpalem/website-drafts",
   "title": "Palimpalem",
-  "description": "Free website drafts for small local businesses, draft lookup and domain name check.",
-  "version": "1.1.0",
+  "description": "Website drafts for local businesses; with sign-in: keep, edit by chat and publish your website.",
+  "version": "1.2.0",
   "websiteUrl": "https://palimpalem.com",
   "repository": {
     "url": "https://github.com/martinschenk/palimpalem-mcp",
@@ -13,7 +13,9 @@
     {
       "src": "https://palimpalem.com/palim/apli/img/brand/p-icon-light-512.png",
       "mimeType": "image/png",
-      "sizes": ["512x512"]
+      "sizes": [
+        "512x512"
+      ]
     }
   ],
   "remotes": [
