@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.palimpalem/website-drafts",
   "title": "Palimpalem",
-  "description": "Website drafts for local businesses; with sign-in: keep, edit by chat and publish your website.",
-  "version": "1.2.0",
+  "description": "Websites for local businesses: draft, keep, edit by chat, publish; domain, DNS, e-mail, Plus.",
+  "version": "1.3.0",
   "websiteUrl": "https://palimpalem.com",
   "repository": {
     "url": "https://github.com/martinschenk/palimpalem-mcp",
