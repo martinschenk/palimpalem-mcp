@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.palimpalem/website-drafts",
   "title": "Palimpalem",
-  "description": "Build a free website draft for a small local business, look it up, and check whether a domain name is free. Websites can be hosted by palimpalem with their own domain and e-mail.",
+  "description": "Free website drafts for small local businesses, draft lookup and domain name check.",
   "version": "1.1.0",
   "websiteUrl": "https://palimpalem.com",
   "repository": {
