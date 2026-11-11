@@ -10,7 +10,13 @@ This repository only describes the server; the server itself runs at palimpalem.
 
 ## Tool
 
-`crear_borrador_web` (Build a website draft)
+Three tools:
+
+- `crear_borrador_web` (Build a website draft)
+- `ver_borrador` (Look up a website draft, read only: name, pages, validity)
+- `comprobar_dominio` (Check a domain name, read only: free or taken, no prices)
+
+Details of the first tool:
 
 | Argument | Type | Description |
 |---|---|---|
