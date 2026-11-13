@@ -1,0 +1,29 @@
+{
+  "name": "palimpalem",
+  "version": "1.4.0",
+  "description": "Build a website for a small local business from a description or its old website, then keep, edit by chat, publish and host it with its own domain and e-mail.",
+  "author": {
+    "name": "Palimpalem",
+    "email": "martin@palimpalem.com",
+    "url": "https://palimpalem.com"
+  },
+  "homepage": "https://palimpalem.com",
+  "repository": "https://github.com/martinschenk/palimpalem-mcp",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "website builder",
+    "small business",
+    "local business",
+    "hosting",
+    "domain",
+    "email",
+    "multilingual"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "displayName": "Palimpalem",
+  "privacyPolicyUrl": "https://palimpalem.com/en-us/privacy",
+  "termsOfServiceUrl": "https://palimpalem.com/en-us/terms",
+  "documentationUrl": "https://github.com/martinschenk/palimpalem-mcp#readme",
+  "supportUrl": "https://palimpalem.com/en-us/contact"
+}

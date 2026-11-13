@@ -1,0 +1,17 @@
+{
+  "name": "palimpalem",
+  "owner": {
+    "name": "Palimpalem",
+    "email": "martin@palimpalem.com"
+  },
+  "description": "Palimpalem: websites for small local businesses, built, edited and hosted from your assistant.",
+  "plugins": [
+    {
+      "name": "palimpalem",
+      "source": "./plugin",
+      "description": "Build a website for a small local business from a description or its old website, then keep, edit by chat, publish and host it with its own domain and e-mail.",
+      "category": "productivity",
+      "homepage": "https://palimpalem.com"
+    }
+  ]
+}

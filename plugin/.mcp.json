@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "palimpalem": {
+      "type": "http",
+      "url": "https://palimpalem.com/mcp"
+    }
+  }
+}

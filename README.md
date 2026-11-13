@@ -52,7 +52,8 @@ Give `description` or `current_website`. Building takes 15 to 60 seconds. The re
 ## Connect in your assistant
 
 - **Claude (claude.ai, Desktop):** Settings → Connectors → Add custom connector → URL `https://palimpalem.com/mcp`
-- **Claude Code:** `claude mcp add --transport http palimpalem https://palimpalem.com/mcp`
+- **Claude Code (plugin, with a skill that says when to use it):** `/plugin install palimpalem --marketplace martinschenk/palimpalem-mcp`
+- **Claude Code (server only):** `claude mcp add --transport http palimpalem https://palimpalem.com/mcp`
 - **ChatGPT (developer mode):** add a remote MCP server with the URL `https://palimpalem.com/mcp/openai`
 - **Cursor, VS Code, Gemini, Mistral Le Chat, Perplexity, other clients:** add a remote MCP server with the URL `https://palimpalem.com/mcp`
 
