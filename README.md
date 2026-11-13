@@ -22,8 +22,11 @@ With palimpalem sign-in (OAuth, scopes `web:read`, `web:write`):
 
 - `reclamar_borrador` (Save a draft as my website: creates a new free website in the account, never overwrites one)
 - `listar_mis_webs` (List my websites, read only)
-- `ver_mi_web` (Look at my website: status and outline of pages and texts, read only)
-- `editar_web` (Change my website from a request in plain words; every change can be undone)
+- `ver_mi_web` (Look at my website: status, pages, languages, last versions and an outline of one page with element ids, read only)
+- `editar_web` (Change my website from a request in plain words, on any page or aimed at one element; replace a photo from a public https address, improve or crop own photos; every change can be undone)
+- `estado_web` (Show the whole state: online, plan, domain, e-mail package, pages, languages; read only)
+- `idiomas_web` (Add or remove languages: es, en, de, fr, it, pt, ca; pages are translated by AI and follow later changes)
+- `versiones_web` (List saved versions and bring one back; the current state is saved first)
 - `publicar_web` (Publish my website; changes nothing without `confirm=true`)
 
 Domain, DNS, e-mail and Plus (with sign-in):
@@ -58,6 +61,8 @@ Give `description` or `current_website`. Building takes 15 to 60 seconds. The re
 > "Make a website for my bakery in Seville: we bake bread and cakes every morning, Calle Feria 20, open Monday to Saturday."
 
 > "Keep that draft as my website and change the main title to Fresh bread every morning."
+
+> "Put this photo of our shop on the home page instead of the first one: https://example.com/shop.jpg, and make my website available in English too."
 
 > "I already have the domain panaderiaferia.es at another provider. Connect it to my website."
 

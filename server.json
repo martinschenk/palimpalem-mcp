@@ -3,7 +3,7 @@
   "name": "com.palimpalem/website-drafts",
   "title": "Palimpalem",
   "description": "Websites for local businesses: draft, keep, edit by chat, publish; domain, DNS, e-mail, Plus.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "websiteUrl": "https://palimpalem.com",
   "repository": {
     "url": "https://github.com/martinschenk/palimpalem-mcp",
